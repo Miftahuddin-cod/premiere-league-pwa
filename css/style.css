@@ -1,0 +1,80 @@
+.card-header{
+    padding: 10px 24px;
+}
+
+.card .card-title{
+    font-weight: 400;
+}
+
+.score{
+    font-size: 4vw;
+}
+
+.jam{
+    font-size: 12px;
+    padding: 5px;
+    background-color:#26a69a;
+    color: white;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+}
+
+.m-1{
+    margin: 1rem 0;
+}
+
+.tanggal{
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.club-image{
+    display: flex;
+    justify-content: center;
+}
+
+.club-image img{
+    margin-top: 2rem;
+    height: 100px;
+}
+
+.club{
+    height: 100%;
+}
+
+.club-name{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.row .col.col-club{
+    margin-left: unset;
+    padding: 0.75rem;
+}
+
+.nav-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+nav{
+    background-color: #37003c;
+}
+
+.team-logo{
+    height: 40px;
+}
+
+.loader{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
